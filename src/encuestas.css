@@ -1,0 +1,10 @@
+.formulario{
+    background-color: black;
+    color: white;
+    text-align: left;
+    border-style: dashed;
+}
+
+.pregunta {
+    margin-top: 15px;
+}
